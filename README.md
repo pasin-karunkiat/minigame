@@ -17,13 +17,13 @@ Eco Hero: Ultra Thai Edition คือเกมแนว Drag & Drop ที่�
 
 ## ✨ Features
 
-- 🌡 Real-time Temperature Monitoring  
-- 💧 Humidity Monitoring  
-- 👣 Automatic Usage Counting  
-- 🌀 Fan Control via Web  
-- 📊 Interactive Graph Dashboard  
-- 🔌 REST API Communication  
-- 🗄 MySQL Data Storage  
+- 🎯 ระบบลากวาง (Drag & Drop)
+- 🗑️ ถังขยะ 4 ประเภท
+    - ขยะเปียก (Organic) 
+    - รีไซเคิล (Recycle)  
+    - ขยะทั่วไป (General)
+    - ขยะอันตราย (Hazardous)  
+ - 🗄 MySQL Data Storage  
 
 ---
 
