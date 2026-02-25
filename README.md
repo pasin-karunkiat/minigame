@@ -35,10 +35,10 @@ Eco Hero: Ultra Thai Edition คือเกมแนว Drag & Drop ที่�
 - สามารถกดอ่านได้จาก เอกสาร"เรื่อง เกมฮีโร่รักษ์โลกแก้แล้ว"ได้
 ---
 ## 📸 Screenshots
-![start](screenshots/start.png)
-![play](screenshots/play.png)
-![pause](screenshots/pause)
-![end](screenshots/end.png)
-![detail](screenshots/detail.png)
+![start](Screenshots/start.png)
+![play](Screenshots/play.png)
+![pause](Screenshots/pause)
+![end](Screenshots/end.png)
+![detail](Screenshots/detail.png)
 
 ---
