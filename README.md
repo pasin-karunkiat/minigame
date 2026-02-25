@@ -16,38 +16,6 @@ Eco Hero: Ultra Thai Edition คือเกมแนว Drag & Drop ที่�
 - ใช้เป็นสื่อการเรียนการสอนในโรงเรียน 
 
 ---
-
-## 🏗️ System Architecture
-
-```text
-          +-------------+
-          |   ESP32     |
-          | Temp/Humid  |
-          | Distance    |
-          +------+------+ 
-                 |
-                 | HTTP POST (REST API)
-                 v
-        +------------------+
-        |  Node.js Server  |
-        |  Express API     |
-        +--------+---------+
-                 |
-                 | SQL
-                 v
-          +-------------+
-          |   MySQL     |
-          | sensor_data |
-          +-------------+
-                 |
-                 | HTTP GET
-                 v
-        +------------------+
-        |  Web Dashboard   |
-        |  Chart.js Graph  |
-        +------------------+
-```
-
 ---
 
 ## ✨ Features
